@@ -52,7 +52,9 @@ git init
 
 *remote是远程仓库，oringin为仓库名称，可以任意自起*
 
-2. git remote -v (查看仓库信息)
+2. git fetch 仓库名 拉取远程仓库 
+
+3. git remote -v (查看仓库信息)
 
 ## 提交文件
 
